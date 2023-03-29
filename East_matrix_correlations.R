@@ -12,7 +12,7 @@ library("ggplot2")
 library("plyr")
 library("gdistance")
 
-setwd("/Volumes/Middle Stone Age points project/East outline analysis")
+setwd("/YOUR/WORKING/DIRECTORY")
 
 rm(list = ls())
 
@@ -20,13 +20,13 @@ rm(list = ls())
 points <- c(30,55,-9,20) # eastern Africa
 
 #### Import and process climate data ####
-bio12_rasterbrick <- raster::brick("bio12_800ka.nc",varname="bio12") #loads the data
+bio12_rasterbrick <- raster::brick("bio12_800ka.nc",varname="bio12") # download from https://www.nature.com/articles/s41597-021-01009-3
 af_precip <- crop(bio12_rasterbrick, points) #crop to eastern africa
 af_precip <- stack(af_precip) #reorder
 names(af_precip@layers) <- 799:0 #reorder
 af_precip@layers <- af_precip@layers[order(as.numeric(names(af_precip@layers)))] #reorder from present to past
 
-bio01_rasterbrick <- raster::brick("bio01_800ka.nc",varname="bio01") #loads the data
+bio01_rasterbrick <- raster::brick("bio01_800ka.nc",varname="bio01")  # download from https://www.nature.com/articles/s41597-021-01009-3
 af_temp <- crop(bio01_rasterbrick, points) #crop to eastern africa
 af_temp <- stack(af_temp) #reorder
 names(af_temp@layers) <- 799:0 #reorder
