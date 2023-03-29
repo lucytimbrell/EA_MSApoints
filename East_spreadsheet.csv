@@ -1,0 +1,250 @@
+﻿ID,Museum specific ID,Museum,Region,Site,Country of site,Specimen/collection no.,Assemblage/layer no.,Contextual information,Typological description,Preservation,Raw material,Length (mm),Width (mm),Thickness (mm),Site,Photograph names,Edited photo name,Researcher initials (photo),Researcher initials (measurements),Supplementary information,LT notes ,Assemblage_2,Min age,Mid-age,Max age,N,E
+625,1,NME,East,Goda Buticha ,Ethiopia,36,"B1a, IIc 140-130",Excavated ,Retouched,Complete,Basalt ,45,16.5,6.5,Goda Buticha ,"Image_7099,7100,7101,7102,7103,7104",E_point_1,BH,YT,"Full info in the bag [ BC 2008, B1a 140-130 IIC No. 36]",,"Complex II, IIc-a",4,6,8,9.54,41.63
+637,13,NME,East,Goda Buticha ,Ethiopia,?,"Bla, +91cm",Excavated ,Levallois Point,Complete,Chert  ,47.5,22.1,7.7,Goda Buticha ,"Image_6980,6981,6982,6983",E_point_10,BH,YT,,,"Complex II, IIc-a",4,6,8,9.54,41.63
+775,151,NME,East,Porc Epic,Ethiopia,1266,08N-07W (110-120),Excavated ,Bifacial Point,Complete,Chert,54.6,29.8,12.8,Porc Epic,"IMG_7424,7425,7426,7427",E_point_100,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+776,152,NME,East,Porc Epic,Ethiopia,1165,08N-07W (110-120),Excavated ,Bifacial Point,Complete,Chert,51.8,24.7,6.7,Porc Epic,"IMG_7429,7430,7431,7432,7433,7434",E_point_101,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+777,153,NME,East,Porc Epic,Ethiopia,2323,08N-07W (180-190),Excavated ,Bifacial Point,Complete,Chert,37.9,28.2,8.1,Porc Epic,"IMG_7436,7437,7438,7439,7440",E_point_102,BH,BH,,,08N-07W IIId,,40,,9.63,41.87
+778,154,NME,East,Porc Epic,Ethiopia,2131,08N-07W (150-160),Excavated ,Bifacial Point,Complete,Basalt ,38,21.5,6.3,Porc Epic,"IMG_7442,7443,7444,7445,7446",E_point_103,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+779,155,NME,East,Porc Epic,Ethiopia,2135,08N-07W (150-160),Excavated ,Unifacial Point,Complete,Chert,46.8,20.8,8.4,Porc Epic,"IMG_7448,7449,7450,7451,7452",E_point_104,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+780,156,NME,East,Porc Epic,Ethiopia,1250,08N-07W (120-130),Excavated ,Unifacial Point,Complete,Chert,46.9,33,9.7,Porc Epic,"IMG_7454,7455,7456,7457,7458",E_point_105,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+781,157,NME,East,Porc Epic,Ethiopia,1256,08N-07W (120-130),Excavated ,Unifacial Point,Complete,Basalt ,33.5,18.7,7.1,Porc Epic,"IMG_7460,7461,7462,7463",E_point_106,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+782,158,NME,East,Porc Epic,Ethiopia,2131,08N-07W (150-160),Excavated ,Levallois Point,Complete,Chert,68.2,52.8,12.4,Porc Epic,"IMG_7471,7472,7473,7474",E_point_107,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+783,159,NME,East,Porc Epic,Ethiopia,2135,08N-07W (150-160),Excavated ,Bifacial Point,Refit  ,Obsidian ,44.3,30.4,9.5,Porc Epic,"IMG_7476,7477,7478,7479,780",E_point_108,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+784,160,NME,East,Porc Epic,Ethiopia,2135,08N-07W (150-160),Excavated ,Unifacial Point,Complete,Chert,55.1,28.9,10.6,Porc Epic,"IMG_7482,7483,7484,7485,7486",E_point_109,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+639,15,NME,East,Goda Buticha ,Ethiopia,?,B1b,Excavated ,Unifacial Point,Complete,Chert  ,31.5,16.4,3.1,Goda Buticha ,"Image_7076,7077,7078,7079,7080,7081",E_point_11,BH,YT,"Full info in the bag [ B1b, BC-712 x-83, y-86, z-96]",,,,,,9.54,41.63
+785,161,NME,East,Porc Epic,Ethiopia,1250,08N-07W (120-130),Excavated ,Unifacial Point,Complete,Chert,65,22.6,6.7,Porc Epic,"IMG_7488,7489,7490,7491,7492",E_point_110,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+788,164,NME,East,Porc Epic,Ethiopia,1266,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Obsidian ,29.7,19.1,6.6,Porc Epic,"IMG_7527,7528,7529,7530",E_point_111,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+789,165,NME,East,Porc Epic,Ethiopia,2317,08N-07W (170-180),Excavated ,Bifacial Point,Complete,Obsidian ,33,23.7,6.8,Porc Epic,"IMG_7532,7533,7534,7535,7536",E_point_112,BH,BH,,,08N-07W IIId,,40,,9.63,41.87
+791,167,NME,East,Porc Epic,Ethiopia,2132,08N-07W(140-150),Excavated ,Retouched,Complete,Obsidian ,30.2,17.5,6.2,Porc Epic,"IMG_7549,7550,7551,7552",E_point_113,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+793,169,NME,East,Porc Epic,Ethiopia,1266,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Basalt ,44.1,21.6,9.4,Porc Epic,"IMG_7344,7345,7346,7347",E_point_114,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+794,170,NME,East,Porc Epic,Ethiopia,2317,08N-07W(?),Excavated ,Bifacial Point,Refit  ,Basalt ,53,24.5,6.7,Porc Epic,"IMG_7578,7579,7580,7581",E_point_115,BH,BH,,,,,40,,9.63,41.87
+795,171,NME,East,Porc Epic,Ethiopia,1165,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Chert,64.5,25.4,14.5,Porc Epic,"IMG_7339,7340,7341",E_point_116,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+796,172,NME,East,Porc Epic,Ethiopia,1165,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Basalt ,38,20,7,Porc Epic,"IMG_7282,7283,7284,7285",E_point_117,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+797,173,NME,East,Porc Epic,Ethiopia,1250,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Chert,22.9,16.8,5.7,Porc Epic,"IMG_7559,7560,7561,7562",E_point_118,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+800,176,NME,East,Porc Epic,Ethiopia,2323,08N-07W (180-190),Excavated ,Unifacial Point,Complete,Basalt ,54,31.3,9,Porc Epic,"IMG_7238, 7239,7240,7241",E_point_119,BH,BH,,,08N-07W IIId,,40,,9.63,41.87
+640,16,NME,East,Goda Buticha ,Ethiopia,?,B1d,Excavated ,Bifacial Point  ,Complete,Basalt ,56.8,19.6,6,Goda Buticha ,"Image_7060,7061,7062,7063",E_point_12,BH,YT,"Ful info in the bag [B1d light orange basalt PT x-20, y-82,z-47 ",,,,,,9.54,41.63
+801,177,NME,East,Porc Epic,Ethiopia,2130,08N-07W (140-150),Excavated ,Unifacial Point,Complete,Obsidian ,29.5,18.5,6.8,Porc Epic,"IMG_7564,7565,7566,7567",E_point_120,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+803,2,NMK,East,Kapthurin Formation,Kenya,1349/3346,GnJh-15,Paleosol lying immediately below base of K4,Point,Complete,Basalt,44.4,34.5,12.3,Kapthurin Formation,"DSC_0155,DSC_0156",E_point_121,SM,CM,,,GnJh-15,396,431,465,0.52,35.9
+804,3,NMK,East,Kapthurin Formation,Kenya,1645/3346,GnJh-15 ,Paleosol lying immediately below base of K4,Point,Complete,Basalt,18.2,8.5,5.2,Kapthurin Formation,"DSC-0157,DSC_0158",E_point_122,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+805,4,NMK,East,Kapthurin Formation,Kenya,1707/3346,GnJh-15 ,Paleosol lying immediately below base of K4,Point,Complete,Basalt,26.9,18,5.3,Kapthurin Formation,"DSC_0159,DSC_0160",E_point_123,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+806,5,NMK,East,Kapthurin Formation,Kenya,1427/3346,GnJh-15 ,Paleosol lying immediately below base of K4,Point,Recent minor breakage,Obsidian,41.4,19,7.1,Kapthurin Formation,"DSC_0161,DSC_0162",E_point_124,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+807,6,NMK,East,Kapthurin Formation,Kenya,1340/3346,GnJh-15 ,Paleosol lying immediately below base of K4,Point,Complete,Basalt,16.3,10.8,5.1,Kapthurin Formation,"DSC-0163,DCS_0164",E_point_125,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+808,7,NMK,East,Kapthurin Formation,Kenya,1066/3346,GnJh-15 ,Paleosol lying immediately below base of K4,Point,Complete,Basalt,22.5,19.3,4,Kapthurin Formation,"DSC-0165,DSC_0166",E_point_126,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+809,8,NMK,East,Kapthurin Formation,Kenya,1758/3346,GnJh-15 ,Paleosol lying immediately below base of K4,Point,Recent minor breakage on the body surface,Basalt,52.1,35.8,6.9,Kapthurin Formation,"DSC_0171,DSC_0172",E_point_127,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+812,11,NMK,East,Kapthurin Formation,Kenya,5782/3346,GnJh-15 ,XVIII-K5-2,Point,Tip broken,Basalt,39.7,23.3,9.2,Kapthurin Formation,"DSC_0175,DSC_0176",E_point_128,SM,CM,,,GnJh-15 ,396,431,465,0.52,35.9
+820,19,NMK,East,Kapthurin Formation,Kenya,7.69/3348,GnJh 16,,Handaxe,Blunt tip,Basalt,152.4,77.7,25.9,Kapthurin Formation,DSC_0189,E_point_129,SM,CM,"Collected in gorge  2miles above Mukungo camp .Ngorora ,Tugen hills",,,,,,0.52,35.9
+641,17,NME,East,Goda Buticha ,Ethiopia,23,Ala IId- 80-70 cm,Excavated ,Bifacial Point  ,Complete,Chert  ,46,21,6.6,Goda Buticha ,"Image_7009,7010,7011,7012,7013",E_point_13,BH,YT,,,"Complex II, Iid-f",33,41,48,9.54,41.63
+821,20,NMK,East,Kapthurin Formation,Kenya,7.69/3348,GnJh 16,,Flake,Complete,Chert,113.2,69.8,24.1,Kapthurin Formation,DSC_0190,E_point_130,SM,CM,,,,,,,0.52,35.9
+822,21,NMK,East,Kapthurin Formation,Kenya,"5, 4105",GnJh 16,,Handaxe,Complete,Basalt,97.1,67.6,26.1,Kapthurin Formation,DSC_0220,E_point_131,SM,CM,Slightly weathered,,,,,,0.52,35.9
+828,27,NMK,East,Kapthurin Formation,Kenya,"I, 3341",GnJh 17,K9.14-VI,Flake,Complete,Basalt,77,38.5,11.8,Kapthurin Formation,DSC_0191,E_point_132,SM,CM,,,,,,,0.52,35.9
+829,28,NMK,East,Kapthurin Formation,Kenya,"II, 3341",GnJh 17,A9.37,Flake,Complete,Basalt,63.6,34.2,8.2,Kapthurin Formation,DSC_0195,E_point_133,SM,CM,,,,,,,0.52,35.9
+830,29,NMK,East,Kapthurin Formation,Kenya,"104.1, 3341",GnJh 17,18VII94,Biface,Complete,Basalt,90.4,61.3,19.8,Kapthurin Formation,DSC_0194,E_point_134,SM,CM,Highly weathered,,,,,,0.52,35.9
+832,31,NMK,East,Kapthurin Formation,Kenya,"59, 4117",GnJh 51,K3 Surface,Biface,Complete,Basalt,84.1,48.7,25.5,Kapthurin Formation,DSC_0192,E_point_135,SM,CM,Weathered,,,,,,0.52,35.9
+833,32,NMK,East,Kapthurin Formation,Kenya,"55, 4111",GnJh40,K3 Surface,Biface,Complete,Basalt,94.1,52.9,30.1,Kapthurin Formation,DSC_0193,E_point_136,SM,CM,"Highly weathered, location 5",,,,,,0.52,35.9
+854,53,NMK,East,Kapthurin Formation,Kenya,2546/4397,GnJh 78,10,Flake,Complete,Basalt,42.1,21.9,6.7,Kapthurin Formation,"DSC_0256,DSC_0257",E_point_137,SM,CM,,,GnJh 78,,100,,0.52,35.9
+857,56,NMK,East,Kapthurin Formation,Kenya,40/4397,GnJh 78,10,Levallois Point,Complete,Basalt,65.7,41.3,8.7,Kapthurin Formation,DSC_0260,E_point_138,SM,CM,,,GnJh 78,,100,,0.52,35.9
+858,57,NMK,East,Kapthurin Formation,Kenya,54/4397,GnJh 78,8,Levallois Point,Complete,Basalt,81.6,43,12.2,Kapthurin Formation,DSC_0261,E_point_139,SM,CM,,,GnJh 78,,100,,0.52,35.9
+642,18,NME,East,Goda Buticha ,Ethiopia,?,A1b ,Excavated ,Unifacial Point,Complete,Chert  ,44.3,30.2,9.5,Goda Buticha ,"Image_7042,7043,7044,7045,7046,7047",E_point_14,BH,YT,"Full info in the bag [ BC 814, A1b, light brown, x-86,y-75,z-68]",,,,,,9.54,41.63
+860,59,NMK,East,Kapthurin Formation,Kenya,2485/4397,GnJh 78,10,Flake,Complete,Basalt,58.2,43.7,10.2,Kapthurin Formation,DSC_0263,E_point_140,SM,CM,,,GnJh 78,,100,,0.52,35.9
+862,61,NMK,East,Kapthurin Formation,Kenya,2456/4397,GnJh 78,10,Flake,Complete,Basalt,67.3,35.6,10.7,Kapthurin Formation,DSC_0265,E_point_141,SM,CM,,,GnJh 78,,100,,0.52,35.9
+864,63,NMK,East,Kapthurin Formation,Kenya,56/4397,GnJh 78,8,Blade,Complete,Basalt,,,,Kapthurin Formation,DSC_0267,E_point_142,SM,CM,,,GnJh 78,,100,,0.52,35.9
+873,72,NMK,East,Kapthurin Formation,Kenya,1888/4397,GnJh 78,10,Levallois flake,Complete,Basalt,46.4,41.6,11.3,Kapthurin Formation,DSC_0276,E_point_143,SM,CM,weathered,,GnJh 78,,100,,0.52,35.9
+878,77,NMK,East,Kapthurin Formation,Kenya,2374/4397,GnJh 78,10,Levallois Point,Complete,Chert,38.7,31.4,14.1,Kapthurin Formation,"DSC_0293,DSC_0294",E_point_144,SM,CM,,,GnJh 78,,100,,0.52,35.9
+880,79,NMK,East,Kapthurin Formation,Kenya,497/4397,GnJh 78,11,Foliate point,Complete,Obsidian,32.8,25.8,8.1,Kapthurin Formation,"DSC_0297,DSC_0298",E_point_145,SM,CM,,,GnJh 78,,100,,0.52,35.9
+881,80,NMK,East,Kapthurin Formation,Kenya,487/4397,GnJh 78,11,Point,Blunt tip,Obsidian,38.8,23,9.4,Kapthurin Formation,"DSC_0299,DSC_0300",E_point_146,SM,CM,,,GnJh 78,,100,,0.52,35.9
+883,82,NMK,East,Kapthurin Formation,Kenya,18/4017,GnJh 0/2,25,Scraper ,Blunt tip,Basalt,46.4,27.8,14.2,Kapthurin Formation,"DSC_0285,DSC_0286",E_point_147,SM,CM,Weathered,,,,,,0.52,35.9
+886,85,NMK,East,Kapthurin Formation,Kenya,"168, 4581",GnJh 81,8,Handaxe,Complete,Basalt,94,65.6,29.7,Kapthurin Formation,DSC_0301,E_point_148,SM,CM,,,,,,,0.52,35.9
+887,86,NMK,East,Kapthurin Formation,Kenya,"63, 4581",GnJh 81,8,Handaxe,Complete,Basalt,116.4,73.1,35.3,Kapthurin Formation,DSC_0302,E_point_149,SM,CM,,,,,,,0.52,35.9
+643,19,NME,East,Goda Buticha ,Ethiopia,17,Bla IIc-130-120,Excavated ,Retouched,Complete,Obsidian,30.3,15.2,8,Goda Buticha ,"Image_7005,7006,7007,7008",E_point_15,BH,YT,,,"Complex II, IIc-a",4,6,8,9.54,41.63
+888,87,NMK,East,Kapthurin Formation,Kenya,"135, 4581",GnJh 81,8,Levallois flake,Complete,Basalt,35.5,30.5,10.4,Kapthurin Formation,"DSC_0317,DSC_0318",E_point_150,SM,CM,,,,,,,0.52,35.9
+890,89,NMK,East,Kapthurin Formation,Kenya,"173, 4581",GnJh 81,8,Levallois Point,Complete,Basalt,62.2,42.7,11.3,Kapthurin Formation,"DSC_0321,DSC_0322",E_point_151,SM,CM,Weathered,,,,,,0.52,35.9
+902,101,NMK,East,Prolonged Drift,Kenya,2212/3205,GrJi 11,,Point,Complete,Obsidian,54.2,34.3,13.4,Prolonged Drift,DSC_0511,E_point_152,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+907,106,NMK,East,Prolonged Drift,Kenya,1613/3205,GrJi 11,,Levallois Point,Complete,Obsidian,43.8,25.1,6.9,Prolonged Drift,DSC_0516,E_point_153,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+910,109,NMK,East,Prolonged Drift,Kenya,1919/3205,GrJi 11,,Point,Blunt tip,Obsidian,36.8,24.1,6.7,Prolonged Drift,DSC_0519,E_point_154,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+911,110,NMK,East,Prolonged Drift,Kenya,2123/3205,GrJi 11,,Point,Complete,Obsidian,59.9,25.8,7.3,Prolonged Drift,DSC_0520,E_point_155,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+914,113,NMK,East,Prolonged Drift,Kenya,1654/3205,GrJi 11,,Point,Complete,Obsidian,43.2,27.8,8,Prolonged Drift,DSC_0523,E_point_156,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+915,114,NMK,East,Prolonged Drift,Kenya,2104/3205,GrJi 11,,Point,Blunt tip,Obsidian,32,16.9,8.4,Prolonged Drift,DSC_0524,E_point_157,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+917,116,NMK,East,Prolonged Drift,Kenya,2257/3205,GrJi 11,,Point,Complete,Obsidian,39.1,21.7,9.5,Prolonged Drift,DSC_0526,E_point_158,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+918,117,NMK,East,Prolonged Drift,Kenya,16/3205,GrJi 11,,Levallois Point,Broken into two pieces,Obsidian,47.7,24.1,6.8,Prolonged Drift,DSC_0527,E_point_159,SM,CM,Tip separate from the body,,GrJi 11,30,51,72,-0.48,36.1
+644,20,NME,East,Goda Buticha ,Ethiopia,?,A1b,Excavated ,Retouched,Complete,Obsidian,52.6,29.2,8.6,Goda Buticha ,"Image_7054,7055,7056,7057,7058",E_point_16,BH,YT,"Full info in the bag [BC 375, A1b, light brown, x-55, y-73,z-131]",,,,,,9.54,41.63
+919,118,NMK,East,Prolonged Drift,Kenya,1142/3205,GrJi 11,,Point,Complete,Obsidian,33,19.7,6.5,Prolonged Drift,DSC_0528,E_point_160,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+920,119,NMK,East,Prolonged Drift,Kenya,1821/3205,GrJi 11,,Point,Complete,Obsidian,43.4,31.8,8,Prolonged Drift,DSC_0529,E_point_161,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+921,120,NMK,East,Prolonged Drift,Kenya,1164/3205,GrJi 11,,Levallois Point,Complete,Obsidian,40,22.8,9.3,Prolonged Drift,DSC_0530,E_point_162,SM,CM,,,GrJi 11,30,51,72,-0.48,36.1
+922,121,NMK,East,Prospect Farm,Kenya,1900/3202,GsJi 8,64,Flake,Complete,Obsidian,53.4,31.3,10.4,Prospect Farm,"DSC_0336,DSC_0337",E_point_163,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+926,125,NMK,East,Prospect Farm,Kenya,108/3202,GsJi 8,64,Point,Complete,Obsidian,35,21.1,5.8,Prospect Farm,DSC_0342,E_point_164,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+930,129,NMK,East,Prospect Farm,Kenya,1910/3202,GsJi 8,64,Point,Complete,Basalt,45.1,28.6,11.8,Prospect Farm,DSC_0346,E_point_165,SM,CM,"Weathered,definitely lava probably basalt.",,GsJi 8,50,85,120,-0.59,36.18
+931,130,NMK,East,Prospect Farm,Kenya,136/3202,GsJi 8,64,Point,Complete,Obsidian,21.8,11.9,3.5,Prospect Farm,DSC_0347,E_point_166,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+938,137,NMK,East,Prospect Farm,Kenya,1422/3202,GsJi 8,64,Bifacial point,Complete,Fossilised wood,48.9,38.9,11.6,Prospect Farm,DSC_0354,E_point_167,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+940,139,NMK,East,Prospect Farm,Kenya,1420/3202,GsJi 8,64,Point,Complete,Obsidian,43.6,33.2,12.3,Prospect Farm,DSC_0356,E_point_168,SM,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+941,140,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,63,Point,Complete,Obsidian,37.1,16,7.9,Prospect Farm,DSC_0374,E_point_169,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+645,21,NME,East,Goda Buticha ,Ethiopia,?,B1d,Excavated ,Bifacial Point  ,Complete,Obsidian,23.9,14.5,5.2,Goda Buticha ,"Image_7020,7021,7022,7023,7024",E_point_17,BH,YT,"Full info in the bag [B1d, BC-300, obsidan point from seive, light brown layer, Z=125",,,,,,9.54,41.63
+943,142,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,63,Point,Complete,Obsidian,27.4,15.9,5.1,Prospect Farm,DSC_0376,E_point_170,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+945,144,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,63,Scraper,Complete,Obsidian,37.2,22.5,6.2,Prospect Farm,DSC_0378,E_point_171,SM,CM,,,GsJi 8,50,85,120,-0.59,36.18
+959,158,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,64,Point,Blunt tip,Obsidian,47.9,14.8,4.3,Prospect Farm,DSC_0418,E_point_172,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+960,159,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,64,Levallois Point,Complete,Obsidian,68.9,23.1,6.4,Prospect Farm,DSC_0419,E_point_173,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+961,160,NMK,East,Prospect Farm,Kenya,3293/3202,GsJi 8,64,Point,Complete,Obsidian,34.9,21.5,5.4,Prospect Farm,DSC_0420,E_point_174,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+962,161,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,47.7,32.2,10.4,Prospect Farm,DSC_0421,E_point_175,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+963,162,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,46.9,36.1,12.5,Prospect Farm,DSC_0422,E_point_176,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+964,163,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,48.1,29.9,10.7,Prospect Farm,DSC_0423,E_point_177,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+965,164,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,33.4,26,10.9,Prospect Farm,DSC_0424,E_point_178,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+971,170,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,54.4,33.6,15.9,Prospect Farm,DSC_0430,E_point_179,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+646,22,NME,East,Goda Buticha ,Ethiopia,32,"A1a, 110-100, IIC",Excavated ,Retouched,Complete,Quartzite ,75.5,26.1,8.2,Goda Buticha ,"Image_6995,6996,6997,6998",E_point_18,BH,YT,,,"Complex II, IIc-a",4,6,8,9.54,41.63
+972,171,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,38.6,30.6,6.7,Prospect Farm,DSC_0431,E_point_180,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+974,173,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point ,Complete,Obsidian,52.9,39.7,11.3,Prospect Farm,DSC_0433,E_point_181,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+975,174,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,59.4,37.3,11.9,Prospect Farm,DSC_0434,E_point_182,SC,CM,Heavily weathered,,GsJi 8,50,85,120,-0.59,36.18
+977,176,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Blunt tip,Obsidian,47.5,35.2,11.3,Prospect Farm,DSC_0436,E_point_183,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+978,177,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,41,30,10.2,Prospect Farm,DSC_0437,E_point_184,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+979,178,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Blunt tip,Obsidian,35.3,29.8,12.3,Prospect Farm,DSC_0438,E_point_185,SC,CM,Heavily weathered,,GsJi 8,50,85,120,-0.59,36.18
+980,179,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,56.1,36.9,15.3,Prospect Farm,DSC_0439,E_point_186,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+981,180,NMK,East,Prospect Farm,Kenya,63/3202,GsJi 8,Surface,Point,Complete,Obsidian,43.2,39.2,11.4,Prospect Farm,DSC_0440,E_point_187,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+982,181,NMK,East,Prospect Farm,Kenya,64/3202,GsJi 8,Surface,Point,Rounded tip,Obsidian,39.5,27.9,9,Prospect Farm,DSC_0441,E_point_188,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+983,182,NMK,East,Prospect Farm,Kenya,64/3202,GsJi 8,Surface,Point,Complete,Obsidian,57.3,26.3,6.3,Prospect Farm,DSC_0442,E_point_189,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+648,24,NME,East,Goda Buticha ,Ethiopia,14,Ald,Excavated ,Levallois Point,Complete,Chert  ,23.6,14.8,3.5,Goda Buticha ,"Image_7088,7089,7090,7091",E_point_19,BH,YT,"Full info in the bag [A1d light brown, 55-50 IID/IIF No.14]",,"Complex II, IId-f",33,41,48,9.54,41.63
+986,185,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,48.4,40.4,13.7,Prospect Farm,DSC_0445,E_point_190,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+987,186,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,47.7,40.9,11.1,Prospect Farm,DSC_0446,E_point_191,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+988,187,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,63.3,46.6,16.3,Prospect Farm,DSC_0447,E_point_192,SC,CM,Heavily weathered,,GsJi 8,50,85,120,-0.59,36.18
+991,190,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,45.7,32.1,9.4,Prospect Farm,DSC_0450,E_point_193,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+992,191,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,38.3,30.7,8.8,Prospect Farm,DSC_0451,E_point_194,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+993,192,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,50.6,38.3,10.2,Prospect Farm,DSC_0452,E_point_195,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+994,193,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,65,33,10.6,Prospect Farm,DSC_0453,E_point_196,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+996,195,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,41.2,42.4,10.3,Prospect Farm,DSC_0455,E_point_197,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+997,196,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,55.3,42.8,14.1,Prospect Farm,DSC_0456,E_point_198,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+998,197,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,62.2,40.6,11.5,Prospect Farm,DSC_0457,E_point_199,SC,CM,Heavily weathered,,GsJi 8,50,85,120,-0.59,36.18
+626,2,NME,East,Goda Buticha ,Ethiopia,?,B1d,Excavated ,Retouched,Complete,Chert  ,40.2,22.6,9.2,Goda Buticha ,"Image_7106,7107,7108,7109,7110",E_point_2,BH,YT,"Full info in the bag [ BC.869, B1d, light orange, x-9, y-83, z-54]",,,,,,9.54,41.63
+653,29,NME,East,Goda Buticha ,Ethiopia,?,A1b,Excavated ,Dejete Scraper,Complete,Chert  ,41,25.4,5.8,Goda Buticha ,"Image_6971,6972,6973",E_point_20,BH,BH,"Full info in the bag [ BC 850, A1b, light brown, x-94, y-84, z-75]",,,,,,9.54,41.63
+1000,199,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,44.6,19,8.5,Prospect Farm,DSC_0459,E_point_200,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1001,200,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,50.6,28.9,12.1,Prospect Farm,DSC_0460,E_point_201,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1002,201,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,37.3,26.6,9.1,Prospect Farm,DSC_0461,E_point_202,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1003,202,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,46.3,26,12.4,Prospect Farm,DSC_0462,E_point_203,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1004,203,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,36.7,21.6,6.4,Prospect Farm,DSC_0463,E_point_204,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1005,204,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,37,29.7,8.1,Prospect Farm,DSC_0464,E_point_205,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1006,205,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,42.6,26.6,13.8,Prospect Farm,DSC_0465,E_point_206,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1007,206,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,61.5,32.3,11.3,Prospect Farm,DSC_0466,E_point_207,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1009,208,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,39,31.2,9.9,Prospect Farm,DSC_0468,E_point_208,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+1017,216,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,41.6,23,9.5,Prospect Farm,DSC_0476,E_point_209,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+655,31,NME,East,Goda Buticha ,Ethiopia,17,A1d 55-50 IID/IIF,Excavated ,Unifacial Point,Complete,Chert  ,32.2,16.2,5.8,Goda Buticha ,"Image_6962,6963,6964,6965,6966,6967,6968,6969",E_point_21,BH,BH,Also include in BC. 2011,,"Complex II, IId-f",33,41,48,9.54,41.63
+1020,219,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,48.4,27.8,10.7,Prospect Farm,DSC_0479,E_point_210,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+1021,220,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,33.7,21.7,7.5,Prospect Farm,DSC_0480,E_point_211,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1023,222,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Rounded tip,Obsidian,37.1,33.7,8.5,Prospect Farm,DSC_0482,E_point_212,SC,CM,weathered,,GsJi 8,50,85,120,-0.59,36.18
+1024,223,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,53.4,27.8,10.4,Prospect Farm,DSC_0483,E_point_213,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1025,224,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Rounded tip,Obsidian,61,36.1,9.6,Prospect Farm,DSC_0484,E_point_214,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1027,226,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,47.6,28.8,11.8,Prospect Farm,DSC_0486,E_point_215,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1028,227,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,34.7,27.3,7.1,Prospect Farm,DSC_0487,E_point_216,SC,CM,Weathered,,GsJi 8,50,85,120,-0.59,36.18
+1029,228,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,30.4,22.3,6.3,Prospect Farm,DSC_0488,E_point_217,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1031,230,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,45.9,31.1,10.4,Prospect Farm,DSC_0490,E_point_218,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1032,231,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,45.8,32.7,9.7,Prospect Farm,DSC_0491,E_point_219,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+656,32,NME,East,Goda Buticha ,Ethiopia,6,"A1b, IIC, 120-110",Excavated ,Unifacial Point,Complete,Obsidian,22.1,15.1,5.1,Goda Buticha ,"Image_6930,6931,6932,6933,6934,6935",E_point_22,BH,BH,,,"Complex II, IIc-a",4,6,8,9.54,41.63
+1034,233,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Rounded tip,Obsidian,36.2,21.9,8.7,Prospect Farm,DSC_0493,E_point_220,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1036,235,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,36.1,20,6.8,Prospect Farm,DSC_0495,E_point_221,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1037,236,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Rounded tip,Obsidian,36.3,32.4,6.2,Prospect Farm,DSC_0496,E_point_222,SC,CM,weathered,,GsJi 8,50,85,120,-0.59,36.18
+1038,237,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Point,Complete,Obsidian,57.6,33.3,10.8,Prospect Farm,DSC_0497,E_point_223,SC,CM,,,GsJi 8,50,85,120,-0.59,36.18
+1042,241,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Bifacial Point,Complete,Obsidian,78.8,48.4,20.8,Prospect Farm,DSC_0501,E_point_224,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1045,244,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,53.2,31.1,14.7,Prospect Farm,DSC_0505,E_point_225,SC,CM,Slightly weathered,,GsJi 8,50,85,120,-0.59,36.18
+1047,246,NMK,East,Prospect Farm,Kenya,3202,GsJi 8,Surface,Levallois Point,Complete,Obsidian,49.4,26.1,7.2,Prospect Farm,DSC_0507,E_point_226,SC,CM,Heavily weathered,,GsJi 8,50,85,120,-0.59,36.18
+1050,249,NMK,East,Prospect Farm,Kenya,"1, 2280",GsJi 13,,Biface,Complete,Basalt,132.9,78.9,34.8,Prospect Farm,DSC_0417,E_point_227,SC,CM,,,GsJi 13,50,85,120,-0.59,36.18
+657,33,NME,East,Goda Buticha ,Ethiopia,8,"B1a, IIF, 70-60",Excavated ,Unifacial Point,Complete,Obsidian,33,18.6,5.8,Goda Buticha ,"Image_6913,6914,6915,6915",E_point_23,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+658,34,NME,East,Goda Buticha ,Ethiopia,19,"A1a, IID 60-50",Excavated ,Bifacial Point  ,Complete,Basalt ,35.8,17.8,8.2,Goda Buticha ,"Image_6909,6910,6911",E_point_24,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+659,35,NME,East,Goda Buticha ,Ethiopia,18,B1a 130-120 IIC,Excavated ,Unifacial Point,Complete,Obsidian,34.5,18.4,7.4,Goda Buticha ,"Image_6904,6905,6906,6907",E_point_25,BH,BH,,,"Complex II, IIc-a",4,6,8,9.54,41.63
+661,37,NME,East,Goda Buticha ,Ethiopia,29,A1a 60-50 IID,Excavated ,Bifacial Point  ,Complete,Obsidian,35.8,27.6,7.8,Goda Buticha ,"Image_6886,6887,6888",E_point_26,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+662,38,NME,East,Goda Buticha ,Ethiopia,18,A1a 60-50 IID,Excavated ,Retouched,Complete,Basalt ,45,24.7,7.8,Goda Buticha ,"Image_6890,6891,6892,6893",E_point_27,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+663,39,NME,East,Goda Buticha ,Ethiopia,22,A1a 80-70 IID,Excavated ,Unifacial Point,Complete,Obsidian,37.1,15.1,4.7,Goda Buticha ,"Image_6880,6881,6882,6883,6884",E_point_28,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+667,43,NME,East,Goda Buticha ,Ethiopia,31,Ala 90-80 IID,Excavated ,Bifacial Point  ,Complete,Obsidian,30,13.8,4.6,Goda Buticha ,"Image_7136,7137,7138,7139,7140",E_point_29,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+628,4,NME,East,Goda Buticha ,Ethiopia,?,A1b,Excavated ,Parti-bifacial Point  ,Complete,Basalt ,44.5,21.7,6.4,Goda Buticha ,"Image_7125,7126,7127,7128,7129",E_point_3,BH,YT,"Full info in the bag [BC 664, A1b light brown x-95, y-79, z-95]",,,,,,9.54,41.63
+668,44,NME,East,Goda Buticha ,Ethiopia,30,A1a 90-80 IID,Excavated ,Unifacial Point,Complete,Obsidian,29,15,6.4,Goda Buticha ,"Image_6950,6951,6952,6953,6954,6955",E_point_30,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+671,47,NME,East,Goda Buticha ,Ethiopia,12,B1a 90-80 IID,Excavated ,Bifacial Point  ,Complete,Basalt ,44.2,23.4,8.8,Goda Buticha ,"Image_6938,6939,6940,6941,6942",E_point_31,BH,BH,,,"Complex II, IId-f",33,41,48,9.54,41.63
+672,48,NME,East,Goda Buticha ,Ethiopia,10,A1c 130-120 IIC,Excavated ,Unifacial Point,Complete,Obsidian,39.9,18.5,10.5,Goda Buticha ,"Image_7131,7132,7133,7134,7135",E_point_32,BH,BH,,,"Complex II, Iic-a",4,6,8,9.54,41.63
+673,49,NME,East,Omo Kibish,Ethiopia,110,OKO2 BNS S1 E L3 Lithics 109-112,Excavated ,Bifacial Point  ,Complete,Chert,48.4,37.7,13.5,Omo Kibish,"Image_7884,7885,7886,7887",E_point_33,BH,YT,,, BNS ,96,104,111,5.41,35.9
+674,50,NME,East,Omo Kibish,Ethiopia,368,"OKO2(PHS OH2) 368 jasper point, BNS",?,Foliate Point,Complete,Chert,72.3,40.9,8.8,Omo Kibish,"Image_7878,7879,7880,7881,7882,7883",E_point_34,BH,YT,"#368 is not found in Shea catalgue; its context is mentioned as OK02 (PHS OH2) but the piece appreared in the Shea,2008 publication Fig.22a under BNS context",, BNS ,96,104,111,5.41,35.9
+676,52,NME,East,Omo Kibish,Ethiopia,514,"OKO3 BNS,100m East Surf.J.F.1/26",Surface (< 100 m East),Bifacial Point  ,Complete,Chert,35.8,24.6,9.1,Omo Kibish,"Image_7901,7902,7903,7904",E_point_35,BH,YT,"it is called ""Foliate Point on flake"" in In Shea 2009 fig22e",, BNS ,96,104,111,5.41,35.9
+678,54,NME,East,Omo Kibish,Ethiopia,958,"OK03  Surf. Coll. ""Kib 098"" PA Girf Biface on flake, BNS",Surface ,Biface on flake,Complete,Basalt?,29.1,19.5,5.6,Omo Kibish,"Image_7914,7915,7916,7917",E_point_36,BH,YT,"Because it named on the bag "" biface on flake""",, BNS ,96,104,111,5.41,35.9
+681,57,NME,East,Omo Kibish,Ethiopia,1329,OKO AHS 1329 Levallois point ,Excavated ,Levallois Point,Complete,Rhyolite,50.8,34.2,5.4,Omo Kibish,"Image_7926,7927,7928,7929",E_point_37,BH,BH,,,AHS,190,195,200,5.41,35.9
+684,60,NME,East,Omo Kibish,Ethiopia,1279,OkO31279 surf.coll.1F 2/5 Kib loc.161,Surface,Levallois Point,Complete,Basalt,40.8,26.9,6.4,Omo Kibish,"Image_7943,7944,7945,7946",E_point_38,BH,BH,,,,,,,5.41,35.9
+685,61,NME,East,Omo Kibish,Ethiopia,1208,OKO3 1208 surf. MBR3/4  #3 point,Surface,Bifacial Point  ,Complete,Rhyolite?,62.7,50.4,15.4,Omo Kibish,"Image_7930,7931,7932,7933,7934",E_point_39,BH,BH,,,,,,,5.41,35.9
+629,5,NME,East,Goda Buticha ,Ethiopia,?,A1d,Excavated ,Bifacial Point  ,Complete,Chert  ,46.3,22,8.2,Goda Buticha ,"Image_7112,7113,7114,7115,7116,7117",E_point_4,BH,YT,"Full info in the bag [ BC.977, A1d, x-29, y-99, z-44, light brown]",,,,,,9.54,41.63
+686,62,NME,East,Omo Kibish,Ethiopia,1276,OKO3 AHS 1276 surf. Coll.1F.2/5 Kib.Loc.073,Surface,Bifacial Point  ,Complete,Rhyolite?,77.6,35.9,11.8,Omo Kibish,"Image_7897,7898,7899,7900",E_point_40,BH,BH,,,AHS,190,195,200,5.41,35.9
+687,63,NME,East,Omo Kibish,Ethiopia,1282,OKO3 AHS 1282 surf.coll.1F.2/5 Kib.Loc 160,Surface,Levallois Point,Complete,Basalt ,61,32.7,14.4,Omo Kibish,"Image_7934,7935,7936,7937,7938",E_point_41,BH,BH,,,AHS,190,195,200,5.41,35.9
+688,64,NME,East,Omo Kibish,Ethiopia,1283,OKO3 AHS 1283 surf.coll 1F.2/5 Kib.Loc 160,Surface,Levallois Point?,Complete,Chert,44.6,41.4,8.2,Omo Kibish,"Image 7939,7940,7941,7942",E_point_42,BH,BH,,,AHS,190,195,200,5.41,35.9
+689,65,NME,East,Omo Kibish,Ethiopia,2086,OKO3 AHS 2086 surf.CAT#2086-2091 s7w5 L6/7?,Surface,Bifacial Point  ,Complete,Chert,37.2,27.9,10,Omo Kibish,"Image_7959,7960,7961,7962",E_point_43,BH,BH,,,AHS,190,195,200,5.41,35.9
+691,67,NME,East,Omo Kibish,Ethiopia,2260,"OK03 2260, AHS",Surface [6],Dejete Scraper,Complete,Chert,51,31.6,9.4,Omo Kibish,"Image_7949,7949,7950,7951",E_point_44,BH,BH,,,AHS,190,195,200,5.41,35.9
+692,68,NME,East,Porc Epic,Ethiopia,1721,06N-14W (NW 160-170),Excavated,Unifacial Point,Complete,Chert,35,20,7.6,Porc Epic,"IMG_7802,7803,7715,7716",E_point_45,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+693,69,NME,East,Porc Epic,Ethiopia,9889.89,06N-14W (NW 160-170),Excavated,Levallois Point,Complete,Basalt,44.7,27.3,10.5,Porc Epic,"IMG_7718,7719",E_point_46,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+694,70,NME,East,Porc Epic,Ethiopia,1763,06N-14W (SW 170-180),Excavated,Unifacial Point,Complete,Chert,44,24.1,7.7,Porc Epic,"IMG_7721,7722,7723,7724",E_point_47,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+696,72,NME,East,Porc Epic,Ethiopia,1673,06N-14W (SW 150-160),Excavated,Unifacial Point,Complete,Basalt,35.5,23.8,7.5,Porc Epic,"IMG_7730,7731,7732",E_point_48,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+697,73,NME,East,Porc Epic,Ethiopia,1673,06N-14W (SW 150-160),Excavated,Unifacial Point,Complete,Chert,44.5,24.9,7.5,Porc Epic,"IMG_7734,7735,7736,7737",E_point_49,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+631,7,NME,East,Goda Buticha ,Ethiopia,6,"A1c, IIc 120-110",Excavated ,Bifacial Point  ,Complete,Chert  ,42.6,25.4,9.5,Goda Buticha ,"Image_7119,7120,7121,7122,7123",E_point_5,BH,YT,Info in the bag also includes  [BC 2008[,,"Complex II, Iid-f",33,41,48,9.54,41.63
+698,74,NME,East,Porc Epic,Ethiopia,1703,06N-14W (NW 190-200),Excavated,Retouched,Complete,Chert,36.3,23.4,8.2,Porc Epic,"IMG_7739,7740,7741,7742",E_point_50,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+700,76,NME,East,Porc Epic,Ethiopia,1703,06N-14W (NW 190-200),Excavated,Unifacial Point,Complete,Basalt,37.4,21.6,9.4,Porc Epic,"IMG_7749,7750,7751,7752",E_point_51,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+704,80,NME,East,Porc Epic,Ethiopia,1779,06N-14W (SE 180-190),Excavated,Bifacial Point,Complete,Chert,47,20.4,9.6,Porc Epic,"IMG_7769,7770,7771,7772",E_point_52,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+705,81,NME,East,Porc Epic,Ethiopia,1771,06N-14W (SW 210-220),Excavated,Unifacial Point,Complete,Chert,46.8,19.7,10.3,Porc Epic,"IMG_7774,7775,7776",E_point_53,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+708,84,NME,East,Porc Epic,Ethiopia,1761,06N-14W (SW 160-170),Excavated,Unifacial Point,Complete,Chert,37.6,22.3,4.6,Porc Epic,"IMG_7788,7789,7790,7791",E_point_54,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+711,87,NME,East,Porc Epic,Ethiopia,1681,06N-14W (SE 190-200),Excavated,Unifacial Point,Complete,Chert,40.8,24.7,6.4,Porc Epic,"IMG_7805,7806,7807,7808",E_point_55,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+712,88,NME,East,Porc Epic,Ethiopia,1681,06N-14W (SE 190-200),Excavated,Unifacial Point,Complete,Chert,44.8,17.8,7.4,Porc Epic,"IMG_7810,7811,7812,7813",E_point_56,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+716,92,NME,East,Porc Epic,Ethiopia,1767,06N-14W (SW 190-200),Excavated,Unifacial Point,Complete,Obsidian,35,17.8,6.7,Porc Epic,"IMG_ 7831,7832,7833,7834",E_point_57,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+718,94,NME,East,Porc Epic,Ethiopia,1767,06N-14W (SW 190-200),Excavated,Levallois Point,Complete,Chert,43.5,17.7,9.5,Porc Epic,"IMG_ 7840, 7841,7842, 7843",E_point_58,BH,BH,,,06N-14W 60-200,,40,,9.63,41.87
+719,95,NME,East,Porc Epic,Ethiopia,1262,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Basalt ,51.6,21.9,7.1,Porc Epic,"IMG_7195,7196,9197,7198",E_point_59,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+632,8,NME,East,Goda Buticha ,Ethiopia,34,"A1a, 90-80 IID",Excavated ,Unifacial Point,Complete,Obsidian,36,14.8,4.6,Goda Buticha ,"Image_7015,7016,7017,7018",E_point_6,BH,YT,"Full info in the bag [BC 2008, A1a 90-80 IID No.34]",,"Complex II, Iid-f",33,41,48,9.54,41.63
+720,96,NME,East,Porc Epic,Ethiopia,2149,08N-07W (160-170),Excavated ,Levallois Point,Complete,Chert,43,20.9,6.3,Porc Epic," IMG_7277,7278,7279,7280",E_point_60,BH,YT,,,08N-07W  IIIc,,40,,9.63,41.87
+721,97,NME,East,Porc Epic,Ethiopia,1256,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Basalt ,50.3,27.2,9.3,Porc Epic,"IMG_7324,7354,7326,7327",E_point_61,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+723,99,NME,East,Porc Epic,Ethiopia,1260,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Basalt ,41,24.3,10.3,Porc Epic,"IMG_ 7190,7191,7192,7193",E_point_62,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+724,100,NME,East,Porc Epic,Ethiopia,1256,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Basalt ,52.5,20.4,6.2,Porc Epic,"IMG_ 7200,7201,7203",E_point_63,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+725,101,NME,East,Porc Epic,Ethiopia,1165,08N-07W (110-120),Excavated ,Retouched,Complete,Chert,31.3,24.7,8.4,Porc Epic,"IMG_ 7211,7212,7213,7214",E_point_64,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+727,103,NME,East,Porc Epic,Ethiopia,1266,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Chert,40,20.4,9.2,Porc Epic,"IMG_ 7221,7222,7223,7224,7225",E_point_65,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+729,105,NME,East,Porc Epic,Ethiopia,2131,08N-07W(150-160),Excavated ,Bifacial Point,Complete,Chert,39.9,19.6,5.7,Porc Epic,"IMG_ 7243,7244,7245,7246",E_point_66,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+730,106,NME,East,Porc Epic,Ethiopia,2134,08N-07W(140-150),Excavated ,Unifacial Point,Complete,Chert,46,21.8,5.1,Porc Epic,"IMG_ 7248,7249,7250,7251,7252",E_point_67,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+731,107,NME,East,Porc Epic,Ethiopia,1260,08N-07W (110-120),Excavated ,Retouched,Complete,Chert,52,20.8,7.5,Porc Epic,"IMG_ 7254,7255,7256,7257",E_point_68,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+732,108,NME,East,Porc Epic,Ethiopia,2135,08N-07W (150-160),Excavated ,Bifacial Point,Complete,Chert,42,28.3,6.4,Porc Epic,"IMG_ 7259,7260,7261,7262",E_point_69,BH,YT,,,08N-07W  IIIc,,40,,9.63,41.87
+634,10,NME,East,Goda Buticha ,Ethiopia,1,B1dIIc.105-100,Excavated ,Unifacial Point,Complete,Obsidian,29.1,22.2,6,Goda Buticha ,"Image_7083,7084,7085,7086",E_point_7,BH,YT,,,"Complex II, Iic-a",4,6,8,9.54,41.63
+733,109,NME,East,Porc Epic,Ethiopia,2700,08N-07W(100-110),Excavated ,Retouched,Complete,Chert,43.5,19.7,8.2,Porc Epic,"IMG_ 7269,7270,7271,7272,7273,7274",E_point_70,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+734,110,NME,East,Porc Epic,Ethiopia,1268,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Basalt ,41,20.6,6.2,Porc Epic,"IMG_7381,7382,7383,7384",E_point_71,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+735,111,NME,East,Porc Epic,Ethiopia,1268,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Basalt ,45.4,21.2,5.9,Porc Epic,"IMG_ 7286,7287,7288,7289",E_point_72,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+738,114,NME,East,Porc Epic,Ethiopia,2699,08N-07W (95-100),Excavated ,Unifacial Point,Complete,Basalt ,37.1,30,7.8,Porc Epic,"IMG_ 7303,7304,7305,7306",E_point_73,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+739,115,NME,East,Porc Epic,Ethiopia,2133,08N-07W(150-160),Excavated ,Retouched,Complete,Basalt ,43.3,19.8,5.9,Porc Epic,"IMG_ 7319,7320,7321,7322",E_point_74,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+740,116,NME,East,Porc Epic,Ethiopia,1165,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Basalt ,53.8,30.9,10.2,Porc Epic,"IMG_ 7334,7335,7336,7338,7338",E_point_75,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+741,117,NME,East,Porc Epic,Ethiopia,2323,08N-07W (180-190),Excavated ,Levallois Point,Complete,Basalt ,56,41.5,10.4,Porc Epic,"IMG_ 7349,7350,7351,7352,7353",E_point_76,BH,YT,,,08N-07W IIId,,40,,9.63,41.87
+742,118,NME,East,Porc Epic,Ethiopia,1268,08N-07W (120-130),Excavated ,Bifacial Point,Complete,Basalt ,55,29.7,11.1,Porc Epic,"IMG_ 7360,7361,7362,7363,7364",E_point_77,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+743,119,NME,East,Porc Epic,Ethiopia,1165,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Basalt ,35,28.3,8.8,Porc Epic,"IMG_ 7376,7377,7378,7379",E_point_78,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+745,121,NME,East,Porc Epic,Ethiopia,1250,08N-07W(120-130),Excavated ,Bifacial Point,Complete,Basalt ,31.5,21.9,5.7,Porc Epic,"IMG_ 7391,7392,7393,7394",E_point_79,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+635,11,NME,East,Goda Buticha ,Ethiopia,?,B1d,Excavated ,Bifacial Point  ,Complete,Obsidian,43.4,19.3,7.4,Goda Buticha ,"Image_7030,7031,7032,7033,7034",E_point_8,BH,YT,"Full info in the bag [ B1d x-1, y-80, z-110, Light brown",,,,,,9.54,41.63
+746,122,NME,East,Porc Epic,Ethiopia,2128,08N-07W(130-140),Excavated ,Unifacial Point,Complete,Chert,42.2,21.7,8,Porc Epic,"IMG_ 7161,7162,7163,7164,7165",E_point_80,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+747,123,NME,East,Porc Epic,Ethiopia,1268,08N-07W(120-130),Excavated ,Retouched,Complete,Chert,40.9,18.9,5.2,Porc Epic,"IMG_ 7401,7402,7403,7404,7405,7406",E_point_81,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+749,125,NME,East,Porc Epic,Ethiopia,?,08N-07W?,Excavated ,Bifacial Point,Complete,Chert,67.6,28.6,8.9,Porc Epic,"IMG_ 7418,7419,7420,7421,7422",E_point_82,BH,YT,,,,,40,,9.63,41.87
+750,126,NME,East,Porc Epic,Ethiopia,1268,08N-07W (120-130),Excavated ,Bifacial Point,Complete,Chert,62.6,26.3,12,Porc Epic,"IMG_ 7465,7466,7467,7468,7469",E_point_83,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+751,127,NME,East,Porc Epic,Ethiopia,1163,08N-07W (?),Excavated ,Unifacial Point,Complete,Obsidian ,41.5,19.9,8.3,Porc Epic,"IMG_ 7494,7495,7496,7497",E_point_84,BH,YT,,,,,40,,9.63,41.87
+752,128,NME,East,Porc Epic,Ethiopia,1262,08N-07W (120-130),Excavated ,Unifacial Point,Complete,Chert,46.3,15.1,5.5,Porc Epic,"IMG_ 7499,7500,7501,7502,7503",E_point_85,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+756,132,NME,East,Porc Epic,Ethiopia,1250,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Chert,56.3,22.5,9.2,Porc Epic,"IMG_7147,7148,7149,7150,1751",E_point_86,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+758,134,NME,East,Porc Epic,Ethiopia,2129,08N-07W (150-160),Excavated ,Levallois Point,Complete,Chert,44,23,4.6,Porc Epic,"IMG_7157,7158,7159,7160",E_point_87,BH,YT,,,08N-07W  IIIc,,40,,9.63,41.87
+759,135,NME,East,Porc Epic,Ethiopia,1268,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Chert,37.8,20.2,4.9,Porc Epic,"IMG_7166,7167,7168,7169",E_point_88,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+760,136,NME,East,Porc Epic,Ethiopia,2133,08N-07W(150-160),Excavated ,Unifacial Point,Complete,Obsidian ,39.6,18,5.5,Porc Epic,"IMG_7170,7171,1772,1973",E_point_89,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+636,12,NME,East,Goda Buticha ,Ethiopia,?,A1d,Excavated ,Bifacial Point  ,Complete,Chert  ,53.5,26.5,9.3,Goda Buticha ,"Image_7025,7026,7027,7028",E_point_9,BH,YT,"Full info in the bag [ BC.798, A1d, light brown,  x-23, y-100, z-43]",,,,,,9.54,41.63
+761,137,NME,East,Porc Epic,Ethiopia,2700,08N-07W(100-110),Excavated ,Unifacial Point,Complete,Basalt ,32.3,17,8.4,Porc Epic,"IMG_7174,1775,1776,1778",E_point_90,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+762,138,NME,East,Porc Epic,Ethiopia,1250,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Chert,50.1,30.4,10.3,Porc Epic,"IMG_7179,1780,1781,1782",E_point_91,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+763,139,NME,East,Porc Epic,Ethiopia,1254,08N-07W(110-120),Excavated ,Unifacial Point,Complete,Chert,67.3,32.5,12.7,Porc Epic,"IMG_7205,7206,7207,7208,7209",E_point_92,BH,YT,,,08N-07W IIIa,,40,,9.63,41.87
+765,141,NME,East,Porc Epic,Ethiopia,1250,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Basalt ,45.2,27.6,9.7,Porc Epic,"IMG_7227,7228,7229,7230",E_point_93,BH,YT,,,08N-07W  IIIb,,40,,9.63,41.87
+767,143,NME,East,Porc Epic,Ethiopia,1266,08N-07W(110-120),Excavated ,Retouched,Complete,Chert,52.2,28.8,9.5,Porc Epic,"IMG_7308,7309,7310,7311,7312",E_point_94,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+768,144,NME,East,Porc Epic,Ethiopia,1266,08N-07W(110-120),Excavated ,Retouched,Complete,Basalt ,50.9,20.6,8.7,Porc Epic,"IMG_7314,7315,7316,7317",E_point_95,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+769,145,NME,East,Porc Epic,Ethiopia,2317,08N-07W(170-180),Excavated ,Retouched,Complete,Chert,42.1,24.7,5.5,Porc Epic,"IMG_7329,7330,7331,7332",E_point_96,BH,BH,,,08N-07W IIIa,,40,,9.63,41.87
+770,146,NME,East,Porc Epic,Ethiopia,2135,08N-07W (150-160),Excavated ,Unifacial Point,Complete,Chert,35,18.4,8.8,Porc Epic,"IMG_7355,7356,7357,7358",E_point_97,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+773,149,NME,East,Porc Epic,Ethiopia,1268,08N-07W(120-130),Excavated ,Unifacial Point,Complete,Chert,41.1,22,8.7,Porc Epic,"IMG_7232,7233,7234,7235,7236",E_point_98,BH,BH,,,08N-07W  IIIb,,40,,9.63,41.87
+774,150,NME,East,Porc Epic,Ethiopia,2131,08N-07W (150-160),Excavated ,Bifacial Point,Complete,Chert,38.7,20.4,4.3,Porc Epic,"IMG_7413,7414,7415,7416",E_point_99,BH,BH,,,08N-07W  IIIc,,40,,9.63,41.87
+1052,1,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Scraper,Complete,Obsidian,36.6,23.5,10.2,Prospect Farm,DSC_0369,E_point_228,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1053,2,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Scraper,Complete,Obsidian,53.6,42.5,16.1,Prospect Farm,DSC_0370,E_point_229,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1054,3,,East,Prospect Farm,Kenya,14/3201,GsJi 7,B2,Point,Complete,Obsidian,47,27.6,10.7,Prospect Farm,DSC_0371,E_point_230,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1055,4,,East,Prospect Farm,Kenya,16/3201,GsJi 7,B2,Scraper,Complete,Obsidian,23.6,21.2,6.5,Prospect Farm,DSC_0372,E_point_231,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1057,7,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Levallois point,Complete,Obsidian,45.8,19.5,5.1,Prospect Farm,DSC_0393,E_point_233,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1059,9,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,27.8,13,2.7,Prospect Farm,DSC_0395,E_point_235,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1060,10,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,29.8,12.3,3.6,Prospect Farm,DSC_0396,E_point_236,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1061,11,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,36.6,26.1,6.9,Prospect Farm,DSC_0397,E_point_237,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1062,12,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,44.9,33.6,13.4,Prospect Farm,DSC_0398,E_point_238,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1063,13,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,28.6,22.9,9.8,Prospect Farm,DSC_0399,E_point_239,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1064,15,,East,Prospect Farm,Kenya,CD5/3201,GsJi 7,63,Point,Complete,Obsidian,46.9,23.6,9.4,Prospect Farm,DSC_0401,E_point_240,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1065,17,,East,Prospect Farm,Kenya,CD19/3201,GsJi 7,63,Point,Complete,Obsidian,37.6,25.8,8.5,Prospect Farm,DSC_0403,E_point_241,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1066,18,,East,Prospect Farm,Kenya,CD18/3201,GsJi 7,63,Point,Complete,Obsidian,36.7,26,9.7,Prospect Farm,DSC_0404,E_point_242,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1067,19,,East,Prospect Farm,Kenya,CD17/3201,GsJi 7,63,Point,Complete,Obsidian,32,21.5,8.6,Prospect Farm,DSC_0405,E_point_243,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1068,20,,East,Prospect Farm,Kenya,CD20/3201,GsJi 7,63,Point,Complete,Obsidian,27.3,23.1,10.3,Prospect Farm,DSC_0406,E_point_244,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1069,21,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,30.6,26.8,11.8,Prospect Farm,DSC_0407,E_point_245,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1070,22,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,31.2,25.6,8.2,Prospect Farm,DSC_0408,E_point_246,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1071,23,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,32.7,25.9,8.6,Prospect Farm,DSC_0409,E_point_247,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1072,24,,East,Prospect Farm,Kenya,1230/3201,GsJi 7,63,Point,Complete,Obsidian,46.7,27.9,10.2,Prospect Farm,DSC-0410,E_point_248,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
+1073,26,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,36.9,22.6,6.3,Prospect Farm,DSC_0412,E_point_249,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1074,27,,East,Prospect Farm,Kenya,3201,GsJi 7,63,Point,Complete,Obsidian,37.3,23.2,8.1,Prospect Farm,DSC_0413,E_point_250,SM,CM,Weathered,,GsJi 7,50,85,120,-0.59,36.18
+1075,28,,East,Prospect Farm,Kenya,,GsJi 7,63,Disc knife,Complete,Obsidian,37.7,19.2,6.6,Prospect Farm,DSC_0414,E_point_251,SM,CM,,,GsJi 7,50,85,120,-0.59,36.18
