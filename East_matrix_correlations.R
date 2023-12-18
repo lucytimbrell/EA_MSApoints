@@ -34,7 +34,7 @@ af_temp@layers <- af_temp@layers[order(as.numeric(names(af_temp@layers)))] #reor
 
 
 #### Import and process site data ####
-sites <- read.csv("final_meanshape_pcs.csv") #load data
+sites <- read.csv("final_meanshape_pcs_Dec2023.csv") #load data
 sites <- subset(sites, !is.na(N)) #remove any sites without lat lon 
 sites_sp <- SpatialPointsDataFrame(sites[,c("E", "N")], sites, proj4string = CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs") ) #turn to spatial object
 sites_sp<- spTransform(sites_sp, CRSobj = "+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +ellps=WGS84 +datum=WGS84 +units=m +no_defs") #projection
